@@ -55,4 +55,4 @@ Todo o conteúdo produzido contribui para demonstrar domínio prático sobre Int
 Criar algo “natty ou not” utilizando IA foi uma experiência reveladora.
 Trabalhar com ferramentas generativas nos faz perceber o nível de realismo que a tecnologia já alcançou — e como isso reforça a importância de entendermos, criarmos e sabermos avaliar conteúdos produzidos artificialmente.
 
-O desafio também mostrou como criatividade e tecnologia caminham juntas, e como projetos como este fortalecem habilidades essenciais para o profissional do futuro.
+O desafio também mostrou como criatividade e tecnologia caminham juntas, e como projetos como este fortalecem habilidades essenciais para o profissional do futuro...
